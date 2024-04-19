@@ -1,1 +1,1 @@
-# Churn_risk_modelling
+This notebook explores the data provided by SWAN Teleco, drawing insights on the types of customers who churn and the reasons why they leave. Within this notebook, four different machine learning models are used to predict whether a consumer will churn or not. After conducting model evaluations, we concluded that our **logistic regression model** and **sklearn random forest model** were the most robust and accurate. Therefore, a combination of these two models were used to make our final predictions.
